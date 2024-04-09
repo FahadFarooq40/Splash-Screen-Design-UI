@@ -1,16 +1,21 @@
-# groceries_app
+![Home](https://github.com/FahadFarooq40/Splash-Screen-Design-UI/assets/104043766/33e6cfbd-8b8d-473b-b33c-eafb211c479e)
 
-A new Flutter project.
+# Splash Screen Design UI
 
-## Getting Started
+Welcome to the Splash Screen Design UI repository! Here, you'll find resources and code snippets to help you create visually stunning splash screens for your Flutter applications.
 
-This project is a starting point for a Flutter application.
+## About
 
-A few resources to get you started if this is your first Flutter project:
+This repository provides a step-by-step guide and practical coding demos for creating splash screens in Flutter. Whether you're new to Flutter or looking to enhance your app's UI, you'll find useful techniques and resources here.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Contents
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Manual Integration Guide](#manual-integration-guide): Step-by-step instructions for integrating splash screens manually.
+- [Swift Setup with flutter_native_splash Package](#swift-setup-with-flutter_native_splash-package): Learn how to set up splash screens using the flutter_native_splash package with Swift.
+- [Creating Visually Stunning Splash Screens](#creating-visually-stunning-splash-screens): Techniques and tips for designing captivating splash screens.
+- [Practical Coding Demos](#practical-coding-demos): Code snippets and demos to illustrate the implementation of splash screens in Flutter.
+
+## Relevant Links
+
+- Subscribe to our YouTube Channel for more tutorials: [Subscribe](https://www.youtube.com/watch?v=BnQgvhbhVkE&list=LL&index=2&t=20s)
+- GitHub Repository for the best resources: [FahadFarooq40/Splash-Screen-Design-UI](https://github.com/FahadFarooq40/Splash-Screen-Design-UI)
