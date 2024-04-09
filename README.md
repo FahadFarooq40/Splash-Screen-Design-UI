@@ -1,8 +1,10 @@
-![Home](https://github.com/FahadFarooq40/Splash-Screen-Design-UI/assets/104043766/33e6cfbd-8b8d-473b-b33c-eafb211c479e)
+<div style="text-align:center">
+
+[![Subscribe to our YouTube Channel](https://img.youtube.com/vi/BnQgvhbhVkE/0.jpg)](https://www.youtube.com/watch?v=BnQgvhbhVkE&list=LL&index=2&t=20s)
 
 # Splash Screen Design UI
 
-🚀 Creating Stunning Splash Screens in #flutter | #package  Method 
+🚀 Creating Stunning Splash Screens in #flutter | #package Method
 
 ## About
 
@@ -19,3 +21,5 @@ This repository provides a step-by-step guide and practical coding demos for cre
 
 - Subscribe to our YouTube Channel for more tutorials: [Subscribe](https://www.youtube.com/watch?v=BnQgvhbhVkE&list=LL&index=2&t=20s)
 - GitHub Repository for the best resources: [FahadFarooq40/Splash-Screen-Design-UI](https://github.com/FahadFarooq40/Splash-Screen-Design-UI)
+
+</div>
