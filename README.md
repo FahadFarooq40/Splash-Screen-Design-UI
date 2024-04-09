@@ -2,7 +2,7 @@
 
 # Splash Screen Design UI
 
-Welcome to the Splash Screen Design UI repository! Here, you'll find resources and code snippets to help you create visually stunning splash screens for your Flutter applications.
+🚀 Creating Stunning Splash Screens in #flutter | #package  Method 
 
 ## About
 
@@ -10,10 +10,10 @@ This repository provides a step-by-step guide and practical coding demos for cre
 
 ## Contents
 
-- [Manual Integration Guide](#manual-integration-guide): Step-by-step instructions for integrating splash screens manually.
-- [Swift Setup with flutter_native_splash Package](#swift-setup-with-flutter_native_splash-package): Learn how to set up splash screens using the flutter_native_splash package with Swift.
-- [Creating Visually Stunning Splash Screens](#creating-visually-stunning-splash-screens): Techniques and tips for designing captivating splash screens.
-- [Practical Coding Demos](#practical-coding-demos): Code snippets and demos to illustrate the implementation of splash screens in Flutter.
+- 🔧 Step-by-step guide for manual integration
+- 🚀 Swift setup with flutter_native_splash package
+- 🎨 Techniques for creating visually stunning splash screens
+- 💻 Practical coding demos for clarity
 
 ## Relevant Links
 
