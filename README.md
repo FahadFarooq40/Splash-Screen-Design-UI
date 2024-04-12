@@ -21,5 +21,6 @@ This repository provides a step-by-step guide and practical coding demos for cre
 
 - Subscribe to our YouTube Channel for more tutorials: [Subscribe](https://www.youtube.com/watch?v=BnQgvhbhVkE&list=LL&index=2&t=20s)
 - GitHub Repository for the best resources: [FahadFarooq40/Splash-Screen-Design-UI](https://github.com/FahadFarooq40/Splash-Screen-Design-UI)
-
+-- thank you so much
+  
 </div>
